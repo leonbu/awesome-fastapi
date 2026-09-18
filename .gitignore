@@ -1,2 +1,8 @@
 .DS_Store
 .idea
+.venv
+.github
+fastapi_starter/.venv
+fastapi_starter/.pytest_cache
+**/__pycache__
+
